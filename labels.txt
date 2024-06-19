@@ -1,0 +1,25 @@
+0 Hand
+1 Paper
+2 Bottle
+3 Notebook
+4 Cabinet
+5 CardBox
+6 Box
+7 container
+8 Foot
+9 AGV
+10 Pen
+11 Tape
+12 Toolboxes
+13 Fire extinguishers
+14 Hazardous materials containers
+15 Keyboard
+16 Mouse
+17 Backpack
+18 Monitor
+19 Cell phone
+20 Pendrive
+21 Table
+22 Chair
+23 Ladder
+24 Gate
